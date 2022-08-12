@@ -1,5 +1,5 @@
 # Piano
-Piano in javascript
+Piano in javascript. First time using events on javascript.
 
 README This is made on a Mac and for a Mac.
 The keybord keys are from a FRENCH AZERTY KEYBORD.
